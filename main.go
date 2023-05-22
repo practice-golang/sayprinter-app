@@ -6,4 +6,5 @@ import (
 
 func main() {
 	sayprinter.SayHello()
+	sayprinter.SayGoodbye()
 }
